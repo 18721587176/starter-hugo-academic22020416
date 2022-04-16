@@ -25,14 +25,14 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: 18840824080@163.com
+  phone: 86-18721587176
   address:
     street: 450 Serra Mall
-    city: Stanford
+    city: Shenzhen
     region: CA
     postcode: '94305'
-    country: United States
+    country: China
     country_code: US
   coordinates:
     latitude: '37.4275'
