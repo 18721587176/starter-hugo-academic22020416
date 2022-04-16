@@ -28,29 +28,17 @@ content:
   email: 18840824080@163.com
   phone: 86-18721587176
   address:
-    street: 450 Serra Mall
     city: Shenzhen
-    region: CA
-    postcode: '94305'
+    postcode: 518172
     country: China
-    country_code: US
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: Zhixin Building, Chinese University of Hong Kong (Shenzhen), Longgang District
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+    - 'Monday 10:00 to 11:00'
+
+
 
 design:
   columns: '2'
