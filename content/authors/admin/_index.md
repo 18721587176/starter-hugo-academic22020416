@@ -11,7 +11,7 @@ role: PhD student of Computer Science
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: The Chinese University of Hong Kong, Shenzhen
-  url: https://www.stanford.edu/
+  url: https://www.cuhk.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include machine learning, deep learning, data mining, and imbalanced data classification.
