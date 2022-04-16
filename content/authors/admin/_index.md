@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ao Shan (单傲)
+title: Ao Shan 
 
 # Is this the primary user of the site?
 superuser: true
